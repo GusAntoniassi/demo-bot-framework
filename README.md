@@ -1,5 +1,5 @@
-# previsao-tempo-bot
-Retornar a previsão do tempo para uma determinada cidade com base na API do ClimaTempo.
+# demo-bot-framework
+Demonstração do serviço Bot Framework da Microsoft com um robô que realiza a previsão do tempo para uma determinada cidade com base na API do ClimaTempo, e executa consultas e inserção em um banco de dados remoto.
 
 ## Pré-requisitos
 - [Node.js][4] version 8.5 or higher
@@ -25,8 +25,8 @@ Retornar a previsão do tempo para uma determinada cidade com base na API do Cli
 ## Conectar-se ao bot usando o Bot Framework Emulator **v4**
 - Abra o Bot Framework Emulator
 - File -> Open Bot Configuration
-- Navegue até a pasta `previsao-tempo-bot`
-- Selecione o arquivo `previsao-tempo-bot.bot`
+- Navegue até a pasta `demo-bot-framework`
+- Selecione o arquivo `demo-bot-framework.bot`
 
 [4]: https://nodejs.org
 [5]: https://github.com/microsoft/botframework-emulator

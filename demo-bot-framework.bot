@@ -1,5 +1,5 @@
 {
-    "name": "previsao-tempo-bot",
+    "name": "demo-bot-framework",
     "services": [
         {
             "type": "endpoint",

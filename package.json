@@ -1,5 +1,5 @@
 {
-    "name": "previsao-tempo-bot",
+    "name": "demo-bot-framework",
     "version": "1.0.0",
     "description": "Retornar a previsão do tempo para uma determinada cidade com base na API do ClimaTempo.",
     "author": "Generated using Microsoft Bot Builder Yeoman generator v4.2.3",
